@@ -1,7 +1,7 @@
 # 🚀 Face Attendance System
 
 🌐 **Live Website:**  
-👉 https://dhruvsehrawat-krmu.github.io/Attendance-Portal/
+👉 https://dhruvsehrawat-krmu.github.io/Face_Attendance_Portal-Project/#/
 
 ---
 
